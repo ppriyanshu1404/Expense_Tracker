@@ -1,2 +1,2 @@
-# Expense_Tracker
-Expense_Tracker
+# An Intuitive web application for tracking personal expenses and managing finances.
+his project was inspired by a need for better financial tracking. While building it, I focused on creating a user-friendly interface that allows for easy addition and deletion of transactions. I used React for the front-end, with the Context API to manage global state. Instead of using traditional methods for state management, I opted for Context API because it simplifies state handling across the app, making the code more maintainable and scalable.
